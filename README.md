@@ -23,7 +23,6 @@ I'm an aspiring **Machine Learning Engineer** and **Data Structures & Algorithms
 ## 📫 How to Reach Me
 - 📩 Email: [aman.singh.5775t@gmail.com]
 - 💼 LinkedIn: [linkedin.com/in/your-profile](yet to upload)
-- 🏗️ GitHub: [github.com/your-username](https://github.com/amansinghtech-sudo)
+- 🏗️ GitHub:(https://github.com/amansinghtech-sudo)
 
-## 💡 Fun Fact
-I love **competitive programming**, exploring **new ML techniques**, and analyzing **real-world data problems**!
+I love ML!
